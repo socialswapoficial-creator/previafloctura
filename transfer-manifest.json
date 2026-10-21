@@ -1,0 +1,539 @@
+{
+  "origin": "https://paraiso-das-flores-petropolis.pedromalvado9090.chatgpt.site/",
+  "files": [
+    {
+      "path": "dist/assets/cafe-artesanal.svg",
+      "url_path": "assets/cafe-artesanal.svg",
+      "sha256": "f5350d6c5582a4e8590229657eba75e071a5f269edb90d9b11cac898e5a15d31",
+      "bytes": 929
+    },
+    {
+      "path": "dist/assets/cafe.webp",
+      "url_path": "assets/cafe.webp",
+      "sha256": "2170d2d5dd2679d25cbeef5859c21df38169f8fbb9c2cdde6ea0cc31b1285fdf",
+      "bytes": 21704
+    },
+    {
+      "path": "dist/assets/colonial.webp",
+      "url_path": "assets/colonial.webp",
+      "sha256": "bea36be896a289e60b0e00aaf00e1b0ed475cbfad26f36e32742873a35156c03",
+      "bytes": 16190
+    },
+    {
+      "path": "dist/assets/divisor-ondas.svg",
+      "url_path": "assets/divisor-ondas.svg",
+      "sha256": "b2a75b54eb4e370fa82fa0d59fba917e7a4cd51e973230227726c017a6a90583",
+      "bytes": 135
+    },
+    {
+      "path": "dist/assets/flores-transicao.webp",
+      "url_path": "assets/flores-transicao.webp",
+      "sha256": "5ea7a87e37e08cb2cb29852487e6b095029b5e4b16013732278f14eb5790bf90",
+      "bytes": 375816
+    },
+    {
+      "path": "dist/assets/flores.webp",
+      "url_path": "assets/flores.webp",
+      "sha256": "fb80d18dbc1c2004ea092dbead241aae26afbd4d0ec96719c6264b3da4fbcd2b",
+      "bytes": 7836
+    },
+    {
+      "path": "dist/assets/folhagens.webp",
+      "url_path": "assets/folhagens.webp",
+      "sha256": "1c2f612fc463a3cbfd0ccc0364c91b578ef4d969b420ba412e3406b3c6df3a4c",
+      "bytes": 35466
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-00.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-00.webp",
+      "sha256": "ca78b777316c83712ac5d707ca538d0b80477b2238b82a20f4ab399bf93cf035",
+      "bytes": 3224970
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-01.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-01.webp",
+      "sha256": "43a9cea8d9b9dac541d3fd4b0e99298b4b3f283995240cb1d8ee6da9ea884100",
+      "bytes": 3025824
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-02.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-02.webp",
+      "sha256": "fbcaac85078500e388a9886417bc3ff4ba522643a3de04c31e9332133b5aa6b2",
+      "bytes": 2871242
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-03.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-03.webp",
+      "sha256": "2654123462f2418c9e0634bde02db0e05a095f41933a173832987c30d2fed740",
+      "bytes": 3081452
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-04.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-04.webp",
+      "sha256": "499d47bdde81653525a22a74873a21d1bd9b1f0955cfb8a403f163a74a565b9a",
+      "bytes": 3119392
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-05.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-05.webp",
+      "sha256": "184e5fcd59c3b48cd173b419f4479119362089446ba6dc4259d21a48ddd992da",
+      "bytes": 3299948
+    },
+    {
+      "path": "dist/assets/hero-desktop-hq/desktop-06.webp",
+      "url_path": "assets/hero-desktop-hq/desktop-06.webp",
+      "sha256": "e61c691478306bae2335427cfbba9c002f67e555f3d13f461af215cfb7fbe195",
+      "bytes": 3586416
+    },
+    {
+      "path": "dist/assets/hero-floral-ivory.webp",
+      "url_path": "assets/hero-floral-ivory.webp",
+      "sha256": "63af18d7939c449683aa7026bd2e92ca48097c99e7f7ba75d763f2892d23b25f",
+      "bytes": 134384
+    },
+    {
+      "path": "dist/assets/hero-floral.webp",
+      "url_path": "assets/hero-floral.webp",
+      "sha256": "e472eb97283437b39d2a33b52b7a2a288fffa6b855d443ec1a3ef0ea22e3306e",
+      "bytes": 149650
+    },
+    {
+      "path": "dist/assets/hero-jardim-hd.webp",
+      "url_path": "assets/hero-jardim-hd.webp",
+      "sha256": "afe0e38271aa9151a310ee6d1ae2b5954bbd87f6f201caf5acfae16d2486ffa9",
+      "bytes": 248082
+    },
+    {
+      "path": "dist/assets/hero-jardim-loop.mp4",
+      "url_path": "assets/hero-jardim-loop.mp4",
+      "sha256": "15bfb012ee63fd53ab8c76cb2cb66ce617f8c16644c63f7458f7f836d863af77",
+      "bytes": 6227206
+    },
+    {
+      "path": "dist/assets/hero-jardim-poster.webp",
+      "url_path": "assets/hero-jardim-poster.webp",
+      "sha256": "f6e264bfd9baeedcca24f85d2a6722be59183c0d5330a0606c071fc435eb639b",
+      "bytes": 47332
+    },
+    {
+      "path": "dist/assets/hero-jardim.mp4",
+      "url_path": "assets/hero-jardim.mp4",
+      "sha256": "031d0cf196d0811941591cd78e24e356fa5a56d9d7c0a270c6086cc76ce3c5b5",
+      "bytes": 3281791
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-00.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-00.webp",
+      "sha256": "b5e10bc8861a2563ba31e65ea9d71ed12ff0f06728c5acd3b272c63627b0a366",
+      "bytes": 1542488
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-01.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-01.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-01.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-01.webp",
+      "sha256": "eef27a27cc3cc6813b596432165d41a1a16aacdde6a36556f9f8ef6d494ffb9b",
+      "bytes": 1512182
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-02.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-02.webp",
+      "sha256": "651331958f861a5370c98ee2eab8496d71110c595904883a77103b6325913b9a",
+      "bytes": 1428146
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-03.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-03.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-03.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-03.webp",
+      "sha256": "0c85ee8adb5cdfc95dc32378a66d0ba18545b5c20bd49e977a399ea77903cb85",
+      "bytes": 1368642
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-04.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-04.webp",
+      "sha256": "9d871efe4f0470b30d84d48b2b2c89b896c3fd776c5a1256e2e64ef5bb465ddb",
+      "bytes": 1300630
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-05.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-05.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-05.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-05.webp",
+      "sha256": "4b7b27caf19385bece934f7f9d72db1e9d7ddcd11cd299117f61eb4dc8b04b74",
+      "bytes": 1314170
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-06.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-06.webp",
+      "sha256": "74d4c346fd49b5a345536379a6f47b2812f95bb5e122f0ff335f999d111f8b12",
+      "bytes": 1351662
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-07.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-07.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-07.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-07.webp",
+      "sha256": "d06fe96341598b0167c869ed55fb9f1156fff2beaed1844f686b89343720e334",
+      "bytes": 1244646
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-08.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-08.webp",
+      "sha256": "e9adc481d2f450ea40764815bb0b973f3d098662b6e9a54fc8359a2f20a771c4",
+      "bytes": 1192174
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-09.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-09.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-09.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-09.webp",
+      "sha256": "dab4d711566d023b05ca0226298c360491343feb1fe0fb1244d10d0250d0c41a",
+      "bytes": 1120012
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-10.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-10.webp",
+      "sha256": "9f54d1e4089c6512bb2f551957558623fb60aa07a0bf9c8927e0b2109e1caccf",
+      "bytes": 1084414
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-11.tmp",
+      "url_path": "assets/hero-mobile-closer/mobile-11.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-closer/mobile-11.webp",
+      "url_path": "assets/hero-mobile-closer/mobile-11.webp",
+      "sha256": "07f7475eaa3d3ac835116bd7e4ecc1ac2cda10f9dbe1d2e8f1d6b021931e0f2b",
+      "bytes": 1092732
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/02.tmp",
+      "url_path": "assets/hero-mobile-smooth/02.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/05.tmp",
+      "url_path": "assets/hero-mobile-smooth/05.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/08.tmp",
+      "url_path": "assets/hero-mobile-smooth/08.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/11.tmp",
+      "url_path": "assets/hero-mobile-smooth/11.tmp",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-00.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-00.webp",
+      "sha256": "184b693d6a7562eb267cf1b65b2cd4f84389e5dddd2f433987e0b223f5c98983",
+      "bytes": 1497372
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-01.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-01.webp",
+      "sha256": "0514b684b5d1b4620972f34c9b5910ddfd6542c08c2090c9d41d7726ae625f2f",
+      "bytes": 1447598
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-02.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-02.webp",
+      "sha256": "ebc26c3fc0619fccb07d8c60333df3b8b6d65b1b485670b3756a176f0acc3a87",
+      "bytes": 1396908
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-03.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-03.webp",
+      "sha256": "1a0f68d781fbe6cb12525ada729c04061fc94abcde97cf32cae7adf70a3b4013",
+      "bytes": 1322220
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-04.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-04.webp",
+      "sha256": "33b119cb39700080d2bb950911f3d869f883d14fc1edee6a9c47632c9e28914d",
+      "bytes": 1273342
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-05.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-05.webp",
+      "sha256": "d6e8cdbd364efaa046d20325864c2cc0eb7d00a2b29183a2d3e7a7a3ebe38d4e",
+      "bytes": 1253154
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-06.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-06.webp",
+      "sha256": "34e70d9c45cf3cb32e2d5b730349c12ab222733903def2b2acca0e18e47f65bf",
+      "bytes": 1267738
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-07.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-07.webp",
+      "sha256": "f909110c790588705f37b2346a9e9d90b9045e7de7ec7c3a4eaa9b03db6d9488",
+      "bytes": 1260002
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-08.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-08.webp",
+      "sha256": "5a352aa366c269dbf60815e0d75cb1d38a9c35e9de4a09b1a0f4fd46451c1f90",
+      "bytes": 1298120
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-09.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-09.webp",
+      "sha256": "9c3894f717efc86da5450c93a4cc5bab0b6cfb22da2dbad8b5fe8d177a2872e4",
+      "bytes": 1338582
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-10.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-10.webp",
+      "sha256": "a1aaec6e645234481e8f8709c78b542a7c16a1d84d9bf66b3555de2b9b4e7c52",
+      "bytes": 1324058
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/mobile-11.webp",
+      "url_path": "assets/hero-mobile-smooth/mobile-11.webp",
+      "sha256": "f2e8caf174df4eed3f29fa888270c0b6cf1c08af48ec9cef74ef220a64cc14a7",
+      "bytes": 1309084
+    },
+    {
+      "path": "dist/assets/hero-mobile-smooth/poster.webp",
+      "url_path": "assets/hero-mobile-smooth/poster.webp",
+      "sha256": "042ec38bd63ae4084c689efcf050e129a96be4a0f8a06bafa6784a21058f59ba",
+      "bytes": 226602
+    },
+    {
+      "path": "dist/assets/hero-sign-frames/frame-000.webp",
+      "url_path": "assets/hero-sign-frames/frame-000.webp",
+      "sha256": "580065a3080c1bddf8c02abf2f20e869e6fa4372c2405a40fa6811fd3cfd6e33",
+      "bytes": 127126
+    },
+    {
+      "path": "dist/assets/historia-papel.webp",
+      "url_path": "assets/historia-papel.webp",
+      "sha256": "f65eb5a64d968029eb4b1dcdcd78da51fe6ef37a6fe1c656f4df59dc7f182318",
+      "bytes": 162822
+    },
+    {
+      "path": "dist/assets/logo.webp",
+      "url_path": "assets/logo.webp",
+      "sha256": "268e2ba9a212bceb1ed51c3ba72adb5331bc259a475343c1af87cc0cfe318b92",
+      "bytes": 2322
+    },
+    {
+      "path": "dist/assets/mesa.webp",
+      "url_path": "assets/mesa.webp",
+      "sha256": "b18c71d6f0ee82b3a1f91f455ac3522de3e20d20130c120695b8a90976c0a70e",
+      "bytes": 31940
+    },
+    {
+      "path": "dist/assets/papel-rasgado-base.svg",
+      "url_path": "assets/papel-rasgado-base.svg",
+      "sha256": "c297e79977f42559d88ad4cd1c081f20b08548e46ed226c898803d91d74949d0",
+      "bytes": 9153
+    },
+    {
+      "path": "dist/assets/papel-rasgado-topo.svg",
+      "url_path": "assets/papel-rasgado-topo.svg",
+      "sha256": "d43620901e7786ab4d9700f8acf467607870d724d51219334f7afd87b94b2dc0",
+      "bytes": 6971
+    },
+    {
+      "path": "dist/assets/papel-sem-flores.webp",
+      "url_path": "assets/papel-sem-flores.webp",
+      "sha256": "711df1f52546b974708f79a62c28ad7b277b86f8997f6b15bb3b9adc5b4f7d34",
+      "bytes": 59312
+    },
+    {
+      "path": "dist/assets/petropolis-rodape-2k.jpg",
+      "url_path": "assets/petropolis-rodape-2k.jpg",
+      "sha256": "0df275e0ccbe771dd739cdbb7b94477379f1579bef8e6ea7b722d01a6b9f2171",
+      "bytes": 1007236
+    },
+    {
+      "path": "dist/assets/petropolis-rodape-2k.webp",
+      "url_path": "assets/petropolis-rodape-2k.webp",
+      "sha256": "611fe7272a109e1a508ebb1a066dc52ced3b2b40b55b8a310660f5ffc1f670c7",
+      "bytes": 732162
+    },
+    {
+      "path": "dist/assets/petropolis-rodape.webp",
+      "url_path": "assets/petropolis-rodape.webp",
+      "sha256": "49ac5d070f074867c8f2284f28cab67d0c4eaf319a697aa205ad5335f260c7ff",
+      "bytes": 22342
+    },
+    {
+      "path": "dist/assets/pizza.webp",
+      "url_path": "assets/pizza.webp",
+      "sha256": "a939fa1c83f1df7e87cfd43419944c9323d0d626e9fe42948bfd09ff131ec130",
+      "bytes": 32252
+    },
+    {
+      "path": "dist/assets/ramo-artesanal.svg",
+      "url_path": "assets/ramo-artesanal.svg",
+      "sha256": "217b623f9a8a08cbd37ed1db846e31f3d2650fe62d8c075161a59fa7a8ec4b94",
+      "bytes": 1404
+    },
+    {
+      "path": "dist/assets/section-videos/ambiente-v3.mp4",
+      "url_path": "assets/section-videos/ambiente-v3.mp4",
+      "sha256": "2323f6fe21ebb452c14c840e12eb45e9e97da692fdc04d27c543c4c3d3ce4893",
+      "bytes": 11822993
+    },
+    {
+      "path": "dist/assets/section-videos/ambiente.mp4",
+      "url_path": "assets/section-videos/ambiente.mp4",
+      "sha256": "3e718ae7690abe384eb3f554e2af51255d8deaeb0c2efedfa39eb629d26765e8",
+      "bytes": 14537171
+    },
+    {
+      "path": "dist/assets/section-videos/ambiente.webp",
+      "url_path": "assets/section-videos/ambiente.webp",
+      "sha256": "083e0509760c15dc73fe92538b8d431fdb58825cf676c7b6d446608848ef6efd",
+      "bytes": 126240
+    },
+    {
+      "path": "dist/assets/section-videos/cafe.mp4",
+      "url_path": "assets/section-videos/cafe.mp4",
+      "sha256": "2a8113cf77ba3a7a1a15b26d9505dca6357a7508a482297bc85b4721429c89ad",
+      "bytes": 1319937
+    },
+    {
+      "path": "dist/assets/section-videos/cafe.webp",
+      "url_path": "assets/section-videos/cafe.webp",
+      "sha256": "fc17794633433119b0e5c379ef5fc8c111c50f8f6b037a807958cbd4c26f3d8f",
+      "bytes": 52244
+    },
+    {
+      "path": "dist/assets/section-videos/flores-v2.mp4",
+      "url_path": "assets/section-videos/flores-v2.mp4",
+      "sha256": "726cad279221cf9cebce7f8f643fe7380cb88653adedb02ec30b578f271be8d1",
+      "bytes": 9700885
+    },
+    {
+      "path": "dist/assets/section-videos/flores.mp4",
+      "url_path": "assets/section-videos/flores.mp4",
+      "sha256": "29911102cebdeb02374f6601c23f8ee659b0f9cdf099a42b91ef89ce0a81e6fa",
+      "bytes": 12050357
+    },
+    {
+      "path": "dist/assets/section-videos/flores.webp",
+      "url_path": "assets/section-videos/flores.webp",
+      "sha256": "242bf962b61af7e1898abd8c6d9ef69d6dfb3260f82f7319dec6a0e24738f385",
+      "bytes": 210556
+    },
+    {
+      "path": "dist/assets/section-videos/pizza.mp4",
+      "url_path": "assets/section-videos/pizza.mp4",
+      "sha256": "1bc3e96a6a2c725a985bfdbb03d4d8ff4c6dd097d192ed5fb6ed855e197b9abe",
+      "bytes": 2117537
+    },
+    {
+      "path": "dist/assets/section-videos/pizza.webp",
+      "url_path": "assets/section-videos/pizza.webp",
+      "sha256": "a806db8bbf1ecb15ac7cf0bc8d0c1f2365d4584d4e94645acac98dfe1ac3e85c",
+      "bytes": 101254
+    },
+    {
+      "path": "dist/assets/static/site-08f1379202ee.js",
+      "url_path": "assets/static/site-08f1379202ee.js",
+      "sha256": "08f1379202ee2012a83187b8c5036b2504a6307eab1dc7058f7c5f9176dd3247",
+      "bytes": 34092
+    },
+    {
+      "path": "dist/assets/static/site-1c2733d3d2cc.css",
+      "url_path": "assets/static/site-1c2733d3d2cc.css",
+      "sha256": "1c2733d3d2cc47aaef7de1b27f8578eb28028b0b8878ee1f4a43074ab60d1426",
+      "bytes": 51604
+    },
+    {
+      "path": "dist/community.js",
+      "url_path": "community.js",
+      "sha256": "5c83f2e3913a3617ecc12629ee520bbba5ab21fb357218bbc67fb8ea1b9269b1",
+      "bytes": 13208
+    },
+    {
+      "path": "dist/deferred-map.js",
+      "url_path": "deferred-map.js",
+      "sha256": "eec0269932f253ddf398b1c62950b9d07e86485644885959af4a6a1039cb0b0e",
+      "bytes": 611
+    },
+    {
+      "path": "dist/index.html",
+      "url_path": "index.html",
+      "sha256": "b9ed70e9bc59eaeea55c77e27039e76af1650379945ec571ada8579204ff4ef7",
+      "bytes": 13468
+    },
+    {
+      "path": "dist/magnetic-button.js",
+      "url_path": "magnetic-button.js",
+      "sha256": "bac1e41030a5d67166a96db9202790ddd268f2b6f2b9d44b1a5a4a5e0fcc8ad7",
+      "bytes": 4053
+    },
+    {
+      "path": "dist/robots.txt",
+      "url_path": "robots.txt",
+      "sha256": "7b1e90ba2c8f41814f9bf990fb9667399348cdd148f21c0e2fec09475db3a624",
+      "bytes": 112
+    },
+    {
+      "path": "dist/script.js",
+      "url_path": "script.js",
+      "sha256": "5da8ca30c716a230a9880e4b9376515e46b431151fb0904d00eedd963114ddb2",
+      "bytes": 7936
+    },
+    {
+      "path": "dist/sitemap.xml",
+      "url_path": "sitemap.xml",
+      "sha256": "1e4edf174d9a1181be1f5852e71f74fe1af174512921ca2ce0bbe1d8a06d7644",
+      "bytes": 198
+    },
+    {
+      "path": "dist/split-text.js",
+      "url_path": "split-text.js",
+      "sha256": "700391077e7978cfb4d54f13fdd0e5fa25d99dc7e6db05a0863fc6bee308ab7b",
+      "bytes": 5801
+    },
+    {
+      "path": "dist/style.css",
+      "url_path": "style.css",
+      "sha256": "34d7eabc6180bc01b349c27b8e55699677b411010e2dc40b6742b3d7bd947a9f",
+      "bytes": 53692
+    },
+    {
+      "path": "dist/video-reveal.js",
+      "url_path": "video-reveal.js",
+      "sha256": "a2f3d71e9092ca413eebcaf7a12110789321924f76c6a771d4ab2f67bb951830",
+      "bytes": 2468
+    }
+  ]
+}
